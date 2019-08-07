@@ -12,5 +12,5 @@
  })
 
  server.listen(port, hostName, () => {
-     console.log('SERVER STARTED')
+     console.log('SERVER STARTED AT PORT 3000')
  });
